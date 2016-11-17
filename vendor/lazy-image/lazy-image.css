@@ -33,7 +33,7 @@
 .lazy-image-placeholder {
   position: absolute;
   top: 50%;
-  right: 50%;
+  left: 50%;
   margin-top: -20px;
   margin-left: -20px;
   font-size: 0;
